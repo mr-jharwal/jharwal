@@ -69,10 +69,7 @@ COFFEE      = "Fueling late-night CTF sessions ☕"
 |---|---------|-------|--------|
 | 01 | 🔍 **Web App Vulnerability Scanner** — Automates OWASP Top 10 detection | `Python` `Requests` `OWASP` | 🟢 Active |
 | 02 | 🧪 **Digital Forensics Evidence Analyzer** — Metadata extraction & chain-of-custody reports | `Python` `FTK Imager` `Linux` | 🟢 Active |
-| 03 | 🦠 **Malware Behavior Sandbox** — Isolated execution environment with behavioral logging | `Python` `Cuckoo` `YARA` | 🔨 Building |
-| 04 | 📡 **Network Packet Analyzer** — Real-time ARP spoof & port scan detection | `Python` `Scapy` `Wireshark` | 🔨 Building |
-| 05 | 🔎 **OSINT Reconnaissance Toolkit** — Domain enumeration, email harvesting, Shodan integration | `Python` `Shodan API` | 🟡 WIP |
-| 06 | 🖥️ **Government IT Support Dashboard** — Asset management & ticketing for RSPCB | `PHP` `MySQL` `JS` | ✅ Deployed |
+| 03 | 📡 **Network Packet Analyzer** — Real-time ARP spoof & port scan detection | `Python` `Scapy` `Wireshark` | 🔨 Building |
 
 ---
 
@@ -91,18 +88,6 @@ COFFEE      = "Fueling late-night CTF sessions ☕"
 
 ---
 
-## `./stats --github`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mr-jharwal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=00ff9d&icon_color=00c4ff&text_color=e8edf5&ring_color=00ff9d" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-jharwal&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=00ff9d&text_color=e8edf5" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-jharwal&theme=github-dark-blue&hide_border=true&background=0a0e14&ring=00ff9d&fire=00c4ff&currStreakLabel=00ff9d" />
-
-</div>
-
----
 
 ## `./activity --graph`
 
